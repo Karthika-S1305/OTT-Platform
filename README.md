@@ -10,13 +10,13 @@ Set Up Your Development Environment:
 
 Write HTML Structure:
    - Create an `index.html` file and write the HTML structure for your OTT platform's web pages. Include elements like header, navigation bar, main content area, footer, etc.
-   - Add links to your CSS stylesheet (`styles3.css`) and JavaScript file (`script3.js`) within the `<head>` section of your HTML file.
+   - Add links to your CSS stylesheet (`styles.css`) and JavaScript file (`script.js`) within the `<head>` section of your HTML file.
 
 Write CSS Styles:
    - Create a `styles.css` file and write CSS styles to design the layout, colors, fonts, and overall appearance of your OTT platform's interface. Use CSS for responsive design to ensure your platform looks good on different devices.
 
 Write JavaScript Code:
-   - Create a `script3.js` file and write JavaScript code to add interactivity and functionality to your OTT platform. This may include features like dynamic content loading, user authentication, search functionality, video playback controls, etc.
+   - Create a `script.js` file and write JavaScript code to add interactivity and functionality to your OTT platform. This may include features like dynamic content loading, user authentication, search functionality, video playback controls, etc.
 
 
 Open Your Web Browser:
